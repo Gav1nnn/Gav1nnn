@@ -27,6 +27,6 @@
   </a>
 </p>
 
-> "The mission of learning is to gain an understanding of underlying systems."
+> "Learning to build, building to learn."
 >
-> "Attempt to build highly concurrent and robust systems through elegant code."
+> "Understanding the 'why' is just as important as knowing the 'how'."
