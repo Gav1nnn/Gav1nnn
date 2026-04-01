@@ -33,17 +33,6 @@
 - **Core Project**: [DanmakuX - High Concurrency Real-time System](https://github.com/Gavlnnn)
 - **AI Integration**: [Currency Exchange Forum (with RAG)](https://github.com/Gavlnnn)
 
-Some architecture & concurrency designs I study in [My Repositories](https://github.com/Gavlnnn) , click the repo can view.
-
 > "The mission of learning is to gain an understanding of underlying systems."
 >
 > "Attempt to build highly concurrent and robust systems through elegant code."
-
-<br/>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gavlnnn/Gavlnnn/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gavlnnn/Gavlnnn/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gavlnnn/Gavlnnn/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
