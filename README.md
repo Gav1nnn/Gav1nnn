@@ -7,7 +7,7 @@
   </p>
   <p>
     <code>🌱 Class of 2027</code>
-    <code>📍 Qingdao, China / Remote.</code>
+    <code>📍 China / Remote.</code>
   </p>
 </div>
 
@@ -19,19 +19,13 @@
 ### Links
 
 <p>
-  <a href="https://github.com/Gavlnnn">
-    <img src="https://img.shields.io/badge/GitHub-Gavlnnn-181717?style=flat-square&logo=github&logoColor=white" alt="github"/>
-  </a>
-  <a href="https://leetcode.cn/u/Gavlnnn/">
-    <img src="https://img.shields.io/badge/LeetCode-algo--practice-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="leetcode"/>
+  <a href="https://github.com/Gav1nnn">
+    <img src="https://img.shields.io/badge/GitHub-Gav1nnn-181717?style=flat-square&logo=github&logoColor=white" alt="github"/>
   </a>
   <a href="mailto:gavinzhang.cc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-gavinzhang.cc%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
   </a>
 </p>
-
-- **Core Project**: [DanmakuX - High Concurrency Real-time System](https://github.com/Gavlnnn)
-- **AI Integration**: [Currency Exchange Forum (with RAG)](https://github.com/Gavlnnn)
 
 > "The mission of learning is to gain an understanding of underlying systems."
 >
