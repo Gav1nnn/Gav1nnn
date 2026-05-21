@@ -19,6 +19,7 @@
 ### Links
 
 <p>
+  <a href="https://gavin.wiki"><img src="https://img.shields.io/badge/Website-gavin.wiki-00ADD8?style=flat-square&logo=internetarchive&logoColor=white" alt="website"/></a>
   <a href="https://github.com/Gav1nnn"><img src="https://img.shields.io/badge/GitHub-Gav1nnn-181717?style=flat-square&logo=github&logoColor=white" alt="github"/></a>
   <a href="mailto:gavinzhang.cc@gmail.com"><img src="https://img.shields.io/badge/Gmail-gavinzhang.cc%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
 </p>
