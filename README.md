@@ -6,7 +6,6 @@
     <strong>I am open to internship opportunities in Go Backend / Infra directions.</strong>
   </p>
   <p>
-    <code>🌱 Class of 2027</code>
     <code>📍 China / Remote.</code>
   </p>
 </div>
