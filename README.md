@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=00ADD8&center=true&pause=100000&lines=Hi,+I'm+Gavin.+Go+Backend+Developer." alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=00ADD8&center=true&pause=100000&lines=Hi,+I'm+Gavin.+Backend+Developer." alt="Hi"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=00ADD8&center=true&vCenter=true&width=780&pause=100000&lines=SE+undergraduate+%7C+Backend+coder+%7C+Open-source+enthusiast." alt="Current Role"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px" alt="wave"/>
@@ -10,10 +10,6 @@
   </p>
 </div>
 
-- I’m grateful to live in an open-source world. I love Go. TvT
-- I’m happy to contribute for free to fun projects & ideas, feel free to email me.
-- I’m primarily seeking Go Backend / Infra developer internships, and remaining open to other.
-- If you’re interested in what I’m building, welcome to join me.
 
 ### Links
 
